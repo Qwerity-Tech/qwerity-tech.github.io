@@ -7,6 +7,5 @@ sub_heading: Testing here
 thumbnail: ''
 email: soragh@gmail.com
 linkedin: ''
-published: false
 
 ---
